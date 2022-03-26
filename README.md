@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.tldr.plus" target="blank"><img src="https://metrics.lecoq.io/baddate?template=classic&pagespeed=1&languages=1&isocalendar=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=https%3A%2F%2Fblog.tldr.plus&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai" alt="baddate" /></a>
 
-----
+<a href="https://blog.tldr.plus" target="blank"><img align="left" src="https://metrics.lecoq.io/baddate?template=classic&introduction=1&isocalendar=1&pagespeed=1&isocalendar.duration=half-year&introduction.title=true&pagespeed.url=blog.tldr.plus&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai" alt="baddate" /></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=baddate.baddate&left_text=My%20Page%20Visitors)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baddate&repo=trilium&show_owner=true" alt="baddate" /></p>
+
+<img src="https://profile-counter.glitch.me/baddate/count.svg">
