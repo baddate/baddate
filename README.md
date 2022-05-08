@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.tldr.plus" target="blank"><img align="left" src="/github-metrics.svg" alt="baddate" width="400" /></a>
+<a href="https://blog.tldr.plus" target="blank"><img align="left" src="/github-metrics.svg" alt="baddate" width="390" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baddate&repo=trilium&show_owner=true" alt="baddate" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=baddate&repo=trilium&show_owner=true" alt="baddate" /></p>
 
-<p>&nbsp;<img align="center" src="https://profile-counter.glitch.me/baddate/count.svg" alt="baddate" /></p>
+<p>&nbsp;<img align="right" width="390" src="https://profile-counter.glitch.me/baddate/count.svg" alt="baddate" /></p>
