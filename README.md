@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>-->
 
-
+<!-- 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=baddate&repo=trilium&show_owner=true" alt="baddate" /></p>
-
+ -->
 
 <p>&nbsp;<img src="https://profile-counter.glitch.me/baddate/count.svg" alt="baddate" /></p>
