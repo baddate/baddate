@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a freelancer now, working on my project.
 <!--
 **baddate/baddate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Page
+- My Blog: [https://hyl.im](https://hyl.im)
 
+- rilium wiki: [https://trilium.netlify.app](https://trilium.netlify.app/)
 
+### Contact me
+- Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d`
+- Github: [baddate/baddate](https://github.com/baddate/baddate/issues/new)
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
 
