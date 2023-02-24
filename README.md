@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Page
 - My Blog: [https://hyl.im](https://hyl.im)
 
-- Trilium wiki: [https://trilium.hyl.im](https://trilium.netlify.app/)
+- Trilium wiki: [https://trilium.hyl.im](https://trilium.hyl.im)
 
 ### Contact me
 - Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d`
