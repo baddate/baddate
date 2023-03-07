@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Page
-- My Blog: [https://hyl.im](https://hyl.im)
+- My Blog: [https://hyl.im](https://sanmoji.xyz)
 
 - Trilium wiki: [https://trilium.hyl.im](https://trilium.hyl.im)
 
