@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Page
-- My Blog: [https://hyl.im](https://sanmoji.xyz)
+- My Blog: [https://sanmoji.xyz](https://sanmoji.xyz)
 
 - Trilium wiki: [https://trilium.hyl.im](https://trilium.hyl.im)
 
 ### Contact me
-- Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d`
+- Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d` or click [HERE](https://www.base64decode.org/dec/bWVAc2FubW9qaS54eXo=)
 - Github: [baddate/baddate](https://github.com/baddate/baddate/issues/new)
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
