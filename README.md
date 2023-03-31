@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Trilium wiki: [https://trilium.hyl.im](https://trilium.hyl.im)
 
 ### Contact me
-- Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d` or click [HERE](https://www.base64decode.org/dec/bWVAc2FubW9qaS54eXo=)
+- Mail: `echo "bWVAb2lpLmxvbAo=" | base64 -d` or click [HERE](https://base64.oii.im/decode/bWVAc2FubW9qaS54eXoK)
 - Github: [baddate/baddate](https://github.com/baddate/baddate/issues/new)
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baddate&show_icons=true&locale=en" alt="baddate" /></p>
