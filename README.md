@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - **Mail**✨: [HERE](https://base64.oii.im/decode/bWVAc21qLmlt) or `echo "bWVAc21qLmlt" | base64 -d`
 - Github: [@baddate](https://github.com/baddate)
 - Twitter: [@realSanmoji](https://twitter.com/realSanmoji)
-
+<--
+ ![](https://komarev.com/ghpvc/?username=baddate&style=for-the-badge)
+ -->
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -68,6 +70,8 @@ Here are some ideas to get you started:
 <!-- 
 <p>&nbsp;<img src="https://profile-counter.glitch.me/baddate/count.svg" alt="baddate" /></p>
  -->
+
+ 
  ## 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F74CEB&width=435&height=80&lines=%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4+%E5%8F%AF%E8%A7%81%E5%A4%A9%E5%9C%B0)](https://smj.im)
 
