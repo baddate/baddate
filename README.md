@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <!--
  ![](https://komarev.com/ghpvc/?username=baddate&style=for-the-badge)
  -->
+<!--
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 
 ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMD Radeon](https://img.shields.io/badge/AMD%20Radeon_RX_6700XT_TUF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
+ -->
 <!--
 ![VSCodium](https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  -->
@@ -74,8 +75,9 @@ Here are some ideas to get you started:
 
  
  ## 
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F74CEB&width=435&height=80&lines=%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4+%E5%8F%AF%E8%A7%81%E5%A4%A9%E5%9C%B0)](https://smj.im)
-
+-->
 <p align="center">
   <img src="https://profile-counter.glitch.me/baddate/count.svg" alt="baddate" />
 </p>
