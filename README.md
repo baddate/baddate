@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **SMJ**, a freelancer now, working on my little projects.
+I'm **Sanmonji**, a freelancer now, working on my little projects.
 
 <!--
 **baddate/baddate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
