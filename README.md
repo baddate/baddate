@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ### Contact me
 - **Mail**✨: [HERE](https://base64.oii.im/decode/bWVAc21qLmlt) or `echo "bWVAc21qLmlt" | base64 -d`
 - Github: [@baddate](https://github.com/baddate)
-- Twitter: [@realSanmoji](https://twitter.com/realSanmoji)
 <!--
  ![](https://komarev.com/ghpvc/?username=baddate&style=for-the-badge)
  -->
