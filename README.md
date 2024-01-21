@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Trilium wiki: [https://trilium.smj.im](https://link.smj.im/s/trilium)
 
 ### Contact me
-- **Mail**✨: [HERE](https://base64.oii.im/decode/bWVAc21qLmlt) or `echo "bWVAc21qLmlt" | base64 -d`
+- **Mail**✨: [HERE](https://link.smj.im/s/email) or `echo "bWVAc21qLmlt" | base64 -d`
 - Github: [@baddate](https://github.com/baddate)
 <!--
  ![](https://komarev.com/ghpvc/?username=baddate&style=for-the-badge)
