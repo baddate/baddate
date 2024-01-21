@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Pages
 - My Blog: [https://smj.im](https://smj.im)
 
-- Trilium wiki: [https://trilium.hyl.im](https://trilium.hyl.im)
+- Trilium wiki: [https://trilium.smj.im](https://trilium.smj.im)
 
 ### Contact me
 - **Mail**✨: [HERE](https://base64.oii.im/decode/bWVAc21qLmlt) or `echo "bWVAc21qLmlt" | base64 -d`
