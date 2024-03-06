@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Pages
-- My Blog: [https://smj.im](https://smj.im)
+- My Blog: [https://smj.im](https://oii.im/blog)
 
-- Trilium wiki: [https://trilium.smj.im](https://link.smj.im/s/trilium)
+- Trilium wiki: [https://trilium.smj.im](https://oii.im/trilium)
 
 ### Contact me
-- **Mail**✨: [HERE](https://link.smj.im/s/email) or `echo "bWVAc21qLmlt" | base64 -d`
+- **Mail**✨: [HERE](https://oii.im/email) or `echo "bWVAc21qLmlt" | base64 -d`
 - Github: [@baddate](https://github.com/baddate)
 <!--
  ![](https://komarev.com/ghpvc/?username=baddate&style=for-the-badge)
